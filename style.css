@@ -1,0 +1,40 @@
+h1{
+    color:rgb(3, 3, 112);
+    border:solid;
+}
+img{
+    color:black;
+    border:solid;
+}
+h2{
+    color:rgb(3, 30, 80);
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    font-family:cursive;
+    font-weight: 400;
+    color: white;
+}
+body{
+    background-color:whitesmoke;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    font-family:cursive;    
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami {
+    border-radius: 50px;
+    background-color: white;
+    
+    width:300px;
+    font-family:unset;
+}
