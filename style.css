@@ -38,3 +38,8 @@ body{
     width:300px;
     font-family:unset;
 }
+
+.centered {
+    position: absolute; top: 20%; left: 10%;
+    color: #FDDCDA;
+}
